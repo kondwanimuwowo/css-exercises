@@ -49,6 +49,8 @@ a {
 
 ul {
   display: flex;
+  margin: 0;
+  padding: 0;
   gap: 16px;
   list-style-type: none;
   margin-right: auto;
